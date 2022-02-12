@@ -1,3 +1,3 @@
 # FuzeScrum
 
-FuzeScrum project
+Presentation and Specification documents for the FuzeScrum project
