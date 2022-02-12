@@ -1,3 +1,3 @@
-# OC-DA_JAVA-P3-FuzeScrum
+# FuzeScrum
 
-Repository for the FuzeScrum project
+FuzeScrum project
